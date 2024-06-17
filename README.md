@@ -21,3 +21,12 @@
 - 👨‍🏫 I love to help people and share my time and knowledge with people avid to learn :)
 
 </div>
+
+##  Find me in...
+
+<div align="left">
+  Codewars </br>
+  <a href="https://www.codewars.com/users/K0d3r0n1n">
+    <img src="https://www.codewars.com/users/K0d3r0n1n/badges/small">
+  </a>
+</div>
