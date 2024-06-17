@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning about topics such as Software Architecture and refining my coding skills learning Structured C!
 - 😏 Always looking to improve the quality of my code!
 - 💬 Ask me about *anything*. The answer may not be right, but we'll laugh about it!
-- ⚡ Fun fact: I have a spider pet in my room who feeds on mosquitoes and other pests. It's name is Alex!
+- ⚡ Fun fact: I have a spider pet in my room who feeds on mosquitoes and other pests. Its name is Alex!
 
 - 👨‍🏫 I love to help people and share my time and knowledge with people avid to learn :)
 
