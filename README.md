@@ -1,4 +1,4 @@
-# 'Hi there!' 👋 - _Obi-Wan Kenobi_
+# 'Hi there!' 👋 - _Obi-Wan Kenobi, to a friend_
 
 
 
@@ -10,7 +10,7 @@
 
 ##  About me
 
-<img align="right" alt="Coding" width="220" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQ2YWQ1MG8yNGsxeTJ1N2ZrM2NkajNqM3llMjJsYTlwMWMxZzA2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DneWSHrgaBDYA/giphy.webp">
+<img align="right" alt="Coding" width="30%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQ2YWQ1MG8yNGsxeTJ1N2ZrM2NkajNqM3llMjJsYTlwMWMxZzA2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DneWSHrgaBDYA/giphy.webp">
   
 - 🔭 I’m a Web/Multiplatform Apps Development student at IES Clara del Rey.
 - 🌱 I’m currently learning about topics such as Software Architecture and refining my coding skills learning Structured C!
